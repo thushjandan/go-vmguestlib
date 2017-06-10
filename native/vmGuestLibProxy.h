@@ -13,8 +13,8 @@
 #ifndef _VM_GUEST_LIB_PROXY_H
 #define _VM_GUEST_LIB_PROXY_H
 
-#include "../vendor/vm_basic_types.h"
-#include "../vendor/vmGuestLib.h"
+#include <vm_basic_types.h>
+#include <vmGuestLib.h>
 
 #ifdef __cplusplus
 extern "C" {
